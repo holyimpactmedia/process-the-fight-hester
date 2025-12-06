@@ -46,6 +46,9 @@ export const metadata: Metadata = {
     description: "Principles to help you process through life's changes. Order the new book by Apostle Marlon D. Hester Sr.",
     images: ["/images/layer-1.png"],
   },
+  icons: {
+    icon: "/images/favicon.png",
+  },
 };
 
 export default function RootLayout({
